@@ -1,0 +1,12 @@
+name: covid-athlete-dashboard
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - altair
+  - chardet
